@@ -10,7 +10,8 @@ Compiling
 ---
 The project is compiled in Ubunutu 18.04.
 To compile,
-```mkdir build
+```
+    mkdir build
     cd build
     cmake ..
     make
